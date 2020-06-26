@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is from master
 
+=======
+this was from try 1
+>>>>>>> try1
